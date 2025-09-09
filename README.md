@@ -1,7 +1,7 @@
 # 🎓 CSE Final Year Project Report
 ## ChatBot2: AI-Powered Android Chatbot Application
 
-**Student:** Samya  
+**Student:** Samyak  
 **Project Title:** ChatBot2 - Advanced AI Chatbot with Multi-Model Support  
 **Department:** Computer Science and Engineering  
 **Academic Year:** 2024-2025  
